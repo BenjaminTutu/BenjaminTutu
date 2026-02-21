@@ -11,7 +11,7 @@ I enjoy designing backend logic, working with databases, and building features t
 - Experience implementing **CRUD operations** and managing relational data
 - Familiar with form handling, validation, and dynamic template rendering
 - Hands-on experience with **web scraping and data processing**
-- Actively preparing for **junior backend developer roles**
+- Active for **junior backend developer roles**
 
 ---
 
