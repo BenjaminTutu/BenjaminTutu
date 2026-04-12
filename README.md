@@ -1,59 +1,62 @@
-# Hi 👋, I'm Benjamin Tutu
+# Hi, I'm Benjamin Tutu 👋
 
-I'm a **Python backend developer** focused on building reliable, data-driven web applications using **Flask**.  
-I enjoy designing backend logic, working with databases, and building features that solve real problems.
-
----
-
-## 👨‍💻 Backend Developer Profile
-- Backend-focused developer with experience building **multiple Flask and Python applications**
-- Strong understanding of **server-side routing, request handling, and application logic**
-- Experience implementing **CRUD operations** and managing relational data
-- Familiar with form handling, validation, and dynamic template rendering
-- Hands-on experience with **web scraping and data processing**
-- Active for **junior backend developer roles**
+I'm a **Python backend developer** based in Ghana, building reliable web applications and APIs that solve real problems. I'm passionate about African tech and currently working on **TechLink** — an opportunity network connecting Africans to tech jobs, scholarships, grants, freelance work, and collaboration.
 
 ---
 
-## 🛠️ Backend Technical Skills
+## 🛠️ Tech Stack
 
-**Programming**
+**Languages**
 - Python
 
 **Backend Frameworks**
 - Flask
 
 **Databases**
-- SQLite (CRUD operations, basic schema design)
+- PostgreSQL, SQLite
 
-**Backend Concepts**
-- Request/response lifecycle
-- Server-side rendering (Jinja)
-- Form handling and validation
-- Data persistence
-- Separation of concerns
+**APIs & Integrations**
+- Paystack Payment API
+- RESTful API design & consumption
 
-**Other Skills**
-- Web scraping
-- Data extraction and processing
-
-**Tools**
-- Git
----
-
-
-## 🎯 Backend Career Goals
-- Build RESTful APIs with Flask
-- Learn authentication and authorization
-- Work with ORMs and production databases
-- Write scalable and maintainable backend systems
-- Contribute to professional engineering teams
+**Tools & Libraries**
+- SQLAlchemy ORM
+- Jinja2 Templates
+- Git & GitHub
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/BenjaminTutu
+## 🚀 Projects
+
+### 🛒 ShopTech — E-commerce Platform
+Full-stack e-commerce app for electrical gadgets, phones, and laptops.
+Built with Flask, PostgreSQL, SQLAlchemy, and **live Paystack payment integration**.
+> [View Repository](https://github.com/BenjaminTutu/shoptech) · [Live Demo](#)
+
+### ☕ Café & WiFi App
+Helps users discover cafés with reliable WiFi, power sockets, and seating.
+Built with Flask, SQLAlchemy, and WTForms with a clean REST API architecture.
+> [View Repository](https://github.com/BenjaminTutu/Cafe-and-WiFi-App)
+
+### 📝 Flask Blog
+Multi-user blog with admin controls, post management, and user comments.
+> [View Repository](https://github.com/BenjaminTutu/flask-blog)
+
+### 📖 Dictionary App
+Fetches and displays word definitions from a public Dictionary REST API.
+> [View Repository](https://github.com/BenjaminTutu/dictionary-app) . [Live Demo](dictionary-app-eta-rust.vercel.app)
 
 ---
 
-⭐️ I’m open to junior backend roles, internships, and collaborative projects.
+## 🌍 Building TechLink
+TechLink is my startup vision — a platform connecting Africans to tech opportunities, freelance work, and collaboration. Currently in development.
+
+---
+
+## 📫 Let's Connect
+- GitHub: [github.com/BenjaminTutu](https://github.com/BenjaminTutu)
+- Open to: **Part-time backend roles, freelance projects, and collaborations**
+
+---
+
+⭐️ If you find my work interesting, feel free to star a repo or reach out!
