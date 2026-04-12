@@ -44,7 +44,7 @@ Multi-user blog with admin controls, post management, and user comments.
 
 ### 📖 Dictionary App
 Fetches and displays word definitions from a public Dictionary REST API.
-> [View Repository](https://github.com/BenjaminTutu/dictionary-app) . [Live Demo](dictionary-app-eta-rust.vercel.app)
+> [View Repository](https://github.com/BenjaminTutu/dictionary-app) . [Live Demo](https://dictionary-app-eta-rust.vercel.app/)
 
 ---
 
