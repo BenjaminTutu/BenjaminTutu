@@ -40,7 +40,7 @@ Built with Flask, SQLAlchemy, and WTForms with a clean REST API architecture.
 
 ### 📝 Flask Blog
 Multi-user blog with admin controls, post management, and user comments.
-> [View Repository](https://github.com/BenjaminTutu/flask-blog)
+> [View Repository](https://github.com/BenjaminTutu/flask-blog) . [Live Demo](https://flask-blog-3qw6.onrender.com/)
 
 ### 📖 Dictionary App
 Fetches and displays word definitions from a public Dictionary REST API.
