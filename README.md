@@ -31,7 +31,7 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 ### 🛒 ShopTech — E-commerce Platform
 Full-stack e-commerce app for electrical gadgets, phones, and laptops.
 Built with Flask, PostgreSQL, SQLAlchemy, and **live Paystack payment integration**.
-> [View Repository](https://github.com/BenjaminTutu/shoptech) · [Live Demo](#)
+> [View Repository](https://github.com/BenjaminTutu/shoptech) · [Live Demo](https://shoptech-w7fj.onrender.com/view_all_products)
 
 ### ☕ Café & WiFi App
 Helps users discover cafés with reliable WiFi, power sockets, and seating.
