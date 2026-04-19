@@ -11,6 +11,7 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 
 **Backend Frameworks**
 - Flask
+- Django
 
 **Databases**
 - PostgreSQL, SQLite
