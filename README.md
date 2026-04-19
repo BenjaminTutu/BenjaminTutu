@@ -29,6 +29,12 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 
 ## 🚀 Projects
 
+## Django-Blog
+Full-stack blog built with Django featuring built-in authentication, 
+auto-generated admin panel, slug-based URLs, pagination, and comment 
+system. Deployed on Render with Supabase PostgreSQL.
+> [View Repository](https://github.com/BenjaminTutu/Django-Blog) · [Live Demo](https://django-blog-729q.onrender.com)
+
 ### 🛒 ShopTech — E-commerce Platform
 Full-stack e-commerce app for electrical gadgets, phones, and laptops.
 Built with Flask, PostgreSQL, SQLAlchemy, and **live Paystack payment integration**.
