@@ -1,62 +1,80 @@
 # Hi, I'm Benjamin Tutu 👋
 
-I'm a **Python backend developer** based in Ghana, building reliable web applications and APIs that solve real problems. I'm passionate about African tech and currently working on **TechLink** — an opportunity network connecting Africans to tech jobs, scholarships, grants, freelance work, and collaboration.
+I'm a **Python backend developer** based in Ghana, building reliable web applications and APIs that solve real problems. I'm passionate about African tech and currently working on **Zuuri** — an AI-powered opportunity network connecting Africans to tech jobs, scholarships, grants, freelance work, and collaboration.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python
+- Python, SQL, HTML, CSS
 
 **Backend Frameworks**
-- Flask
-- Django
+- Flask, Django
 
 **Databases**
-- PostgreSQL, SQLite
+- PostgreSQL (Supabase), SQLite
+
+**ORM & Migrations**
+- SQLAlchemy, Django ORM, Flask-Migrate, Alembic
 
 **APIs & Integrations**
 - Paystack Payment API
 - RESTful API design & consumption
+- Third-party API integration
 
 **Tools & Libraries**
-- SQLAlchemy ORM
 - Jinja2 Templates
+- Bootstrap 5
+- Django Jazzmin
+- Pillow
 - Git & GitHub
+- Gunicorn, WhiteNoise
+
+**Deployment**
+- Render, Supabase, Vercel
 
 ---
 
 ## 🚀 Projects
 
-## Django-Blog
-Full-stack blog built with Django featuring built-in authentication, 
-auto-generated admin panel, slug-based URLs, pagination, and comment 
-system. Deployed on Render with Supabase PostgreSQL.
+### 🛒 Django ShopTech — E-commerce Platform (Django)
+Full-stack e-commerce platform for phones, laptops and accessories built with Django. Features live Paystack payment processing, product reviews & ratings, wishlist, coupon/discount codes, real-time order tracking, low stock warnings and a customized Jazzmin admin panel. Deployed on Render with Supabase PostgreSQL.
+> [View Repository](https://github.com/BenjaminTutu/django-shoptech) · [Live Demo](https://django-shoptech.onrender.com) 
+
+### 🛍️ ShopTech — E-commerce Platform (Flask)
+Full-stack e-commerce app for phones, laptops and accessories built with Flask. Features live Paystack payment integration, order tracking, admin panel, and email notifications. Deployed on Render with Supabase PostgreSQL.
+> [View Repository](https://github.com/BenjaminTutu/Flask-Ecommerce-Shop) · [Live Demo](https://shoptech-w7fj.onrender.com/)
+
+### 📝 Django Blog
+Full-stack blog built with Django featuring built-in authentication, auto-generated admin panel, slug-based URLs, pagination, and comment system. Deployed on Render with Supabase PostgreSQL.
 > [View Repository](https://github.com/BenjaminTutu/Django-Blog) · [Live Demo](https://django-blog-729q.onrender.com)
 
-### 🛒 ShopTech — E-commerce Platform
-Full-stack e-commerce app for electrical gadgets, phones, and laptops.
-Built with Flask, PostgreSQL, SQLAlchemy, and **live Paystack payment integration**.
-> [View Repository](https://github.com/BenjaminTutu/shoptech) · [Live Demo](https://shoptech-w7fj.onrender.com/)
+### 📝 Flask Blog
+Multi-user blog with admin controls, post management, and user comments. Deployed on Render with Supabase PostgreSQL.
+> [View Repository](https://github.com/BenjaminTutu/flask-blog) · [Live Demo](https://flask-blog-3qw6.onrender.com/)
 
 ### ☕ Café & WiFi App
-Helps users discover cafés with reliable WiFi, power sockets, and seating.
-Built with Flask, SQLAlchemy, and WTForms with a clean REST API architecture.
+Helps users discover cafés with reliable WiFi, power sockets, and seating. Built with Flask, SQLAlchemy, and WTForms with a clean REST API architecture.
 > [View Repository](https://github.com/BenjaminTutu/Cafe-and-WiFi-App)
 
-### 📝 Flask Blog
-Multi-user blog with admin controls, post management, and user comments.
-> [View Repository](https://github.com/BenjaminTutu/flask-blog) . [Live Demo](https://flask-blog-3qw6.onrender.com/)
-
 ### 📖 Dictionary App
-Fetches and displays word definitions from a public Dictionary REST API.
-> [View Repository](https://github.com/BenjaminTutu/dictionary-app) . [Live Demo](https://dictionary-app-eta-rust.vercel.app/)
+Fetches and displays word definitions from a public Dictionary REST API using Flask and Jinja2 templates.
+> [View Repository](https://github.com/BenjaminTutu/dictionary-app) · [Live Demo](https://dictionary-app-eta-rust.vercel.app/)
 
 ---
 
-## 🌍 Building TechLink
-TechLink is my startup vision — a platform connecting Africans to tech opportunities, freelance work, and collaboration. Currently in development.
+## 🌍 Building Zuuri
+Zuuri is my startup — an AI-powered opportunity network designed to connect Africans to tech jobs, remote work, scholarships, grants, and collaboration. Currently building the MVP with a Telegram AI bot as the first touchpoint.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **BSc. Computer Science** — University of The People (2025 - Present)
+- 📜 **CS50: Introduction to Computer Science** — Harvard University (Online)
+- 📜 **CS50: Introduction to Programming with Python** — Harvard University (Online)
+- 📜 **100 Days of Code — Complete Python Pro Bootcamp** — Dr. Angela Yu, Udemy
 
 ---
 
