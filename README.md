@@ -38,8 +38,15 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 
 ## 🚀 Projects
 
+### 🛒 MeTube — A YouTube Clone; Video viewing platform (Django)
+A full-stack YouTube clone built with Django. Features video upload and playback, channel pages, subscriptions, nested comments with replies, like/dislike system, real-time view tracking via Django Signals, category filtering, and video search. 
+
+**Note:** This project is not deployed — it is a learning project that demonstrates advanced Django concepts. Full source code is available below.
+> [View Repository](https://github.com/BenjaminTutu/youtube_clone) 
+
+
 ### 🛒 Django ShopTech — E-commerce Platform (Django)
-Full-stack e-commerce platform for phones, laptops and accessories built with Django. Features live Paystack payment processing, product reviews & ratings, wishlist, coupon/discount codes, real-time order tracking, low stock warnings and a customized Jazzmin admin panel. Deployed on Render with Supabase PostgreSQL.
+Full-stack e-commerce platform for phones, laptops and accessories built with Django. Features live Paystack payment processing, product reviews & ratings, a wishlist, coupon/discount codes, real-time order tracking, low-stock warnings, and a customized Jazzmin admin panel. Deployed on Render with Supabase PostgreSQL.
 > [View Repository](https://github.com/BenjaminTutu/django-shoptech) · [Live Demo](https://django-shoptech.onrender.com) 
 
 ### 🛍️ ShopTech — E-commerce Platform (Flask)
