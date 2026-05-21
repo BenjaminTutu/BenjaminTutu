@@ -78,7 +78,7 @@ Zuuri is my startup — an AI-powered opportunity network designed to connect Af
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc. Computer Science** — University of The People (2025 - Present)
+- 🎓 **BSc. Computer Science** — University of The People (Present)
 - 📜 **CS50: Introduction to Computer Science** — Harvard University (Online)
 - 📜 **CS50: Introduction to Programming with Python** — Harvard University (Online)
 - 📜 **100 Days of Code — Complete Python Pro Bootcamp** — Dr. Angela Yu, London App Brewery (Online-Udemy)
