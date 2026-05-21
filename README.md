@@ -7,7 +7,7 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python, SQL, HTML, CSS
+- Python
 
 **Backend Frameworks**
 - Flask, Django
