@@ -13,7 +13,7 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 - Flask, Django
 
 **Databases**
-- PostgreSQL (Supabase), SQLite
+- PostgreSQL (Supabase), SQLite, MySQL
 
 **ORM & Migrations**
 - SQLAlchemy, Django ORM, Flask-Migrate, Alembic
@@ -81,7 +81,8 @@ Zuuri is my startup — an AI-powered opportunity network designed to connect Af
 - 🎓 **BSc. Computer Science** — University of The People (2025 - Present)
 - 📜 **CS50: Introduction to Computer Science** — Harvard University (Online)
 - 📜 **CS50: Introduction to Programming with Python** — Harvard University (Online)
-- 📜 **100 Days of Code — Complete Python Pro Bootcamp** — Dr. Angela Yu, Udemy
+- 📜 **100 Days of Code — Complete Python Pro Bootcamp** — Dr. Angela Yu, London App Brewery (Online-Udemy)
+- 
 
 ---
 
