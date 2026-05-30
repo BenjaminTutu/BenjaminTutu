@@ -8,12 +8,17 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 
 **Languages**
 - Python
+- Java
 
 **Backend Frameworks**
-- Flask, Django
+- Flask
+- Django
+- FastAPI
 
 **Databases**
-- PostgreSQL (Supabase), SQLite, MySQL
+- PostgreSQL (Supabase)
+- SQLite
+- MySQL
 
 **ORM & Migrations**
 - SQLAlchemy, Django ORM, Flask-Migrate, Alembic
