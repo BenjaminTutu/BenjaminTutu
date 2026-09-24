@@ -1,6 +1,6 @@
 # Hi, I'm Benjamin Tutu 👋
 
-I'm a **Python backend developer** based in Ghana, building reliable web applications and APIs that solve real problems. I'm passionate about African tech and currently working on **Zuuri** — an AI-powered opportunity network connecting Africans to tech jobs, scholarships, grants, freelance work, and collaboration.
+I'm a **Python backend developer** based in Ghana, building reliable web applications and APIs that solve real problems. I'm passionate about African tech and currently working on **Bio AI** — an AI-powered opportunity network connecting Africans to the Global STEM Opportunities.
 
 ---
 
