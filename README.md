@@ -9,6 +9,8 @@ I'm a **Python backend developer** based in Ghana, building reliable web applica
 **Languages**
 - Python
 - Java
+- Javascipt
+- 
 
 **Backend Frameworks**
 - Flask
