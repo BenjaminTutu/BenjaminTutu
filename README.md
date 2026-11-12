@@ -68,18 +68,10 @@ Full-stack blog built with Django featuring built-in authentication, auto-genera
 Multi-user blog with admin controls, post management, and user comments. Deployed on Render with Supabase PostgreSQL.
 > [View Repository](https://github.com/BenjaminTutu/flask-blog) · [Live Demo](https://flask-blog-3qw6.onrender.com/)
 
-### ☕ Café & WiFi App
-Helps users discover cafés with reliable WiFi, power sockets, and seating. Built with Flask, SQLAlchemy, and WTForms with a clean REST API architecture.
-> [View Repository](https://github.com/BenjaminTutu/Cafe-and-WiFi-App)
-
-### 📖 Dictionary App
-Fetches and displays word definitions from a public Dictionary REST API using Flask and Jinja2 templates.
-> [View Repository](https://github.com/BenjaminTutu/dictionary-app) · [Live Demo](https://dictionary-app-eta-rust.vercel.app/)
-
 ---
 
 ## 🌍 Building Zuuri
-Zuuri is my startup — an AI-powered opportunity network designed to connect Africans to tech jobs, remote work, scholarships, grants, and collaboration. Currently building the MVP with a Telegram AI bot as the first touchpoint.
+Opporify is my startup — an AI-powered opportunity network designed to connect Africans to tech jobs, remote work, scholarships, grants, and collaboration. Currently building the MVP with a Telegram AI bot as the first touchpoint.
 
 ---
 
