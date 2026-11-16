@@ -1,6 +1,19 @@
 # Hi, I'm Benjamin Tutu 👋
 
-I'm a **Python backend developer** based in Ghana, building reliable web applications and APIs that solve real problems. I'm passionate about African tech and currently working on **Bio AI** — an AI-powered opportunity network connecting Africans to the Global STEM Opportunities.
+I’m a self-taught full-stack Python developer focused on building reliable, data-driven web
+applications that solve real-world problems. I enjoy designing backend systems, working with
+databases, developing APIs, and turning ideas into practical, user-focused products.
+Alongside my career as a full-time Paramilitary Security Personnel at the Ghana Ports and
+Harbours Authority and my studies at the University of the People, I dedicate my time outside my
+eight-hour shifts to developing my skills and building real-world projects in technology.
+Balancing work, education, and software development hasn’t always been easy, but resilience,
+hard work, and determination continue to drive me toward my goal of landing my first major
+opportunity in tech.
+I’m currently building Opporify, an opportunity intelligence platform designed to connect African
+talent with global opportunities, including scholarships, fellowships, free courses, grants,
+hackathons, and remote jobs. I’m rolling out the MVP as a Telegram Mini App, incorporating
+OpenAI-powered AI features to make discovering and accessing opportunities smarter, more
+personalized, and more accessible.
 
 ---
 
@@ -70,7 +83,7 @@ Multi-user blog with admin controls, post management, and user comments. Deploye
 
 ---
 
-## 🌍 Building Zuuri
+## 🌍 Building Opporify
 Opporify is my startup — an AI-powered opportunity network designed to connect Africans to tech jobs, remote work, scholarships, grants, and collaboration. Currently building the MVP with a Telegram AI bot as the first touchpoint.
 
 ---
